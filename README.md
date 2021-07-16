@@ -17,6 +17,8 @@ The commands that we used in this project :
 
 head() - It shows the first N rows in the data (by default, N=5).
 
+tail() - It shows the last N rows in the data (by default, N=5).
+
 shape - It shows the total no. of rows and no. of columns of the dataframe
 
 index - This attribute provides the index of the dataframe
