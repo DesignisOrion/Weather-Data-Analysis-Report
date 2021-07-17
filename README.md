@@ -1,5 +1,7 @@
 # Weather-Data-Analysis-Report
 
+<img src = "https://github.com/DesignisOrion/Weather-Data-Analysis-Report/blob/main/img/weather.jpg"></img>
+
 In this data report, I wanted to get more insight about the data presented via csv file. 
 Questions were created to help the studies of commands listed below.
 
